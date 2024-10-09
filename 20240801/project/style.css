@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+}
+
+.wrapper {
+    padding: 30px;
+    margin: 30px;
+    background-color: gray;
+}
+.baris-1 {
+    background-color: yellow;
+    padding: 50px;
+}
+
+.baris-2 {
+    
+    margin-top: 30px;
+    display: flex;
+    gap: 10px;
+}
+
+.baris-3 {
+    background-color: blue;
+    margin-top: 30px;
+    padding: 50px;
+}
+
+.baris-4 {
+    background-color: gold;
+    margin-top: 30px;
+    padding: 50px;
+}
+
+.baris-5 {
+    background-color: greenyellow;
+    margin-top: 30px;
+    padding: 50px;
+}
+
+img {
+    width: 100%;
+}
+
+.baris-2-kolom-1, .baris-2-kolom-2, .baris-2-kolom-3, .baris-2-kolom-4, .baris-2-kolom-5 {
+    height: 20px;
+    width: 20px;
+}
+
+.baris-2-kolom-1 {
+    background-color: aqua;
+}
+
+.baris-2-kolom-2 {
+    background-color: brown;
+}
+
+.baris-2-kolom-3 {
+    background-color: olivedrab;
+}
+
+.baris-2-kolom-4 {
+    background-color: navy;
+}
+
+.baris-2-kolom-5 {
+    background-color: violet;
+}
