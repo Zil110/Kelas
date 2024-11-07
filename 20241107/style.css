@@ -1,0 +1,98 @@
+.container{
+    width: 900px;
+    margin: auto;
+    background-color: #262626;
+    color: white;
+}
+
+.header{
+    display: flex;
+}
+
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+
+.sekolah{
+    margin-left: 20px;
+}
+
+.nav{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.home{
+    background-color: blueviolet;
+    color: black;
+}
+
+.sejarah{
+    background-color: chocolate;
+    color: black;
+}
+
+.kegiatan{
+    background-color: aqua;
+    color: black;
+}
+
+.jadwal{
+    background-color: lightblue;
+    color: black;
+}
+
+.galeri{
+    background-color: greenyellow;
+    color: black;
+}
+
+.kontak{
+    background-color: brown;
+    color: black;
+}
+
+.alamat{
+    display: flex;
+}
+
+.map img{
+    width: 50px;
+    height: 50px;
+}
+
+.a-txt{
+    margin-left: 20px;
+}
+
+.telepon{
+    display: flex;
+}
+
+.telpon img{
+    width: 50px;
+    height: 50px;
+}
+
+.t-txt{
+    margin-left: 20px;
+}
+
+.email{
+    display: flex;
+}
+
+.mail img{
+    width: 50px;
+    height: 50px;
+}
+
+.e-txt{
+    margin-left: 20px;
+}
+
+.cpr{
+    background-color: black;
+}
